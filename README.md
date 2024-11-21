@@ -1,6 +1,6 @@
 Compile
 
-g++ PUL.cpp -O3 -std=c++11 -o pul
+g++   pul.cpp -O3 -std=c++11 -o pul
 
 Run
 
