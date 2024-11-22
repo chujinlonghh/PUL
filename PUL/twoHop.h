@@ -1,7 +1,6 @@
 #ifndef PUL2H_H
 #define PUL2H_H
 #include<iostream>
-#include"TGraph.h"
 #include <functional>
 #include <string>
 #include <fstream>
@@ -11,7 +10,6 @@
 #include <vector>
 #include<algorithm>
 #include <unordered_map>
-#include"selfhash.h"
 #include"roaring.h"
 #include"roaring.hh"
 #include"roaring64map.hh"
