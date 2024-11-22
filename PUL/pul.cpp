@@ -8,7 +8,6 @@
 #include"Graph.h"
 #include"twoHop.h"
 #include"graphCompressd.h"
-#include"Cycle.h"
 #include"Query.h"
 #include"roaring.hh"
 #include"roaring.c"
